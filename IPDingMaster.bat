@@ -4,7 +4,8 @@ setlocal enabledelayedexpansion
 REM Check if the file iplist.txt exists
 if not exist iplist.txt (
     echo IP list file not found.
-    exit /b
+    echo > "iplist.txt"
+    echo File created.
 )
 
 REM Split the IP list into two files
