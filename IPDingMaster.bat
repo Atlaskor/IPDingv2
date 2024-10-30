@@ -104,7 +104,7 @@ del "error6.txt"
 del "error7.txt"
 del "error8.txt"
 echo File cleanup complete!
-echo Concatonating up text files.
+echo Formatting and converting text files to CSV.
 
 :: Define the input and output files
 set inputFile="successful.txt"
