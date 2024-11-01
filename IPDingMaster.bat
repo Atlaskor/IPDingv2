@@ -23,14 +23,14 @@ set counter=0
 ))
 ::Begin summoning ping windows.
 echo Ping operations started in separate Command Prompt windows.
-start "IPDing Window One" "IPDingv2.bat"
-start "IPDing Window Two" "IPDingv2N2.bat"
-start "IPDing Window Three" "IPDingv2N3.bat"
-start "IPDing Window Four" "IPDingv2N4.bat"
-start "IPDing Window Five" "IPDingv2N5.bat"
-start "IPDing Window Six" "IPDingv2N6.bat"
-start "IPDing Window Seven" "IPDingv2N7.bat"
-start "IPDing Window Eight" "IPDingv2N8.bat"
+start "IPDing Ping One" "IPDingv2.bat"
+start "IPDing Ping Two" "IPDingv2N2.bat"
+start "IPDing Ping Three" "IPDingv2N3.bat"
+start "IPDing Ping Four" "IPDingv2N4.bat"
+start "IPDing Ping Five" "IPDingv2N5.bat"
+start "IPDing Ping Six" "IPDingv2N6.bat"
+start "IPDing Ping Seven" "IPDingv2N7.bat"
+start "IPDing Ping Eight" "IPDingv2N8.bat"
 ::Must pause for pings to complete before moving on.
 echo DO NOT MOVE ON UNTIL PINGS ARE COMPLETE!
 pause
