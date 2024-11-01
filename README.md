@@ -1,4 +1,4 @@
-IPDv2 is a tool for pinging IPs in a quick fashion.
+IPDv2 is a tool for pinging IPs in a quick fashon.
 
 The only file that needs any interaction is IPDingMaster.bat.
 This file starts the process and calls on the other 8 separate scripts.
