@@ -9,4 +9,4 @@ The scripts then make their own error#.txt and successful#.txt.
 After the pings are complete the ping windows close.
 The main prompt is all that remains.
 Once you click through, all of the files are processed, compiled and exported.
-All files other then iplist.txt and the csv files are deleted.
+All files other than the csv files are deleted.
