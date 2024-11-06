@@ -1,6 +1,5 @@
 @echo off
 setlocal enabledelayedexpansion
-echo made it!
 REM Run ipex.bat if needed
 call ipex.bat
 REM Define the file paths
