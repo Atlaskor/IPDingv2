@@ -33,5 +33,5 @@ echo Calling mergeplease.bat.....
 call MergePlease.bat
 pause
 echo Deleting iplist.txt
-del iplist.txt
+del "iplist.txt"
 pause
